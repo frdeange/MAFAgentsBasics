@@ -1,0 +1,6 @@
+agent-framework==1.0.0b251104
+agent-framework-copilotstudio==1.0.0b251104
+agent-framework-core==1.0.0b251104
+aiohttp==3.13.2
+packaging==25.0
+feedparser==6.0.12
